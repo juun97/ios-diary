@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Diary
+
+  Created by kimseongjun on 2023/04/27.
+  
+*/
+"titleTextFieldPlaceHolder" = "Please enter the title";
+"bodyTextViewPlaceHolder" = "Please enter the content";
+"mainTitle" = "Diary";
+"dateFormat" = "MM/dd/yyyy";
+"deleteAlertTitle" = "Warning";
+"deleteAlertMessage" = "Are you sure delete it?";
+"delete" = "Delete";
+"cancel" = "Cancel";
+"share" = "Share";
+"more" = "More";
